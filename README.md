@@ -1,2 +1,2 @@
 # TheFlorist
-Application to find the local florists in your city.
+Full Stack application to find the local florists in your city.
